@@ -4,7 +4,7 @@ import Button from "./Button.js";
 
 
 function Header() {
-  return <div class="Header"> Hello React!! </div>;
+  return <div class="Header"> Hello React!! <Button/> </div>;
  
 }
 
